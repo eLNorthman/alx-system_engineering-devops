@@ -1,2 +1,2 @@
-#!/bin/bash
-echo $ ($TRUEKNOWLEDGE+128)
+a65;6800;1c#!/bin/bash
+echo $(($TRUEKNOWLEDGE+128))
